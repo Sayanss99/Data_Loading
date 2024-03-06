@@ -1,0 +1,4 @@
+DATABASE,SCHEMA,TABLE_NAME,STAGE_OBJECT,S3_FILE_PATH_TO_BE_APPENDED_WITH_STAGE_OBJECT,WAREHOUSE,SNOWFLAKE_ROLE,FILE_FORMAT,PATTERN
+prj_1,public,iris_flower,snow_simple,iris_flower,compute_wh,accountadmin,my_csv_format,.*
+prj_1,public,customer,snow_simple,customer,compute_wh,accountadmin,my_csv_format,.*
+Demo2,public,json_testing_with_array,second_stage,jsontesting,compute_wh,accountadmin,json_format_strip_outer_array,.*[.]json
