@@ -4,7 +4,7 @@ This repository contains a Python script for a generic job to streamline the pro
 
 ## Project Architecture
 
-![Project Architecture]([path/to/your/architecture/image.png](https://github.com/Sayanss99/Data_Loading/blob/main/Architecture%20%20of%20the%20generic%20Job%20to%20ingest%20data%20from%20s3%20to%20Snowflake.png))
+![Project Architecture](https://github.com/Sayanss99/Data_Loading/blob/main/Architecture%20%20of%20the%20generic%20Job%20to%20ingest%20data%20from%20s3%20to%20Snowflake.png)
 
 ### Components:
 - **Python Script (`s3_to_snowflake_loader.py`):**
